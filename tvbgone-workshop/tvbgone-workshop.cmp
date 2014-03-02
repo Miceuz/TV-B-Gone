@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by PcbNew date = Wed 26 Feb 2014 07:45:13 PM CET
+
+BeginCmp
+TimeStamp = /530E29E9;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = BATT-AA-BK92;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E29DC;
+Reference = BT2;
+ValeurCmp = BATTERY;
+IdModule  = BATT-AA-BK92;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3771;
+Reference = C1;
+ValeurCmp = CAPAPOL;
+IdModule  = c_tant_E;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A306B;
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A305E;
+Reference = C3;
+ValeurCmp = 22p;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3733;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3833;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36D9;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36F9;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A316B;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36B4;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A30E5;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3029;
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = SO8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36D3;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3147;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36DF;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36FF;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36E5;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3175;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A36BA;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A3188;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A30D8;
+Reference = R7;
+ValeurCmp = 330;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A309D;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A368B;
+Reference = SW1;
+ValeurCmp = SW_PUSH_SMALL;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A304F;
+Reference = X1;
+ValeurCmp = 8MHz;
+IdModule  = HC49-US;
+EndCmp
+
+EndListe

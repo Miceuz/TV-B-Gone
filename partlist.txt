@@ -1,0 +1,39 @@
+Partlist
+
+Exported from tvbgone-attiny85-pendant.brd at 2013/04/14/ 10:02 AM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value              Package        Library      Position (mil)        Orientation
+
+B1                          EVQ-Q2         microbuilder (862.5 809.449)       R90
+C1                          0603-CAP       SparkFun     (1175 1050)           R90
+C3                          EIA7343-31/D-W microbuilder (250 300)             R0
+C4                          0603-CAP       SparkFun     (937.5 462.5)         R180
+C5                          0603-CAP       SparkFun     (1562.5 462.5)        R0
+JP1                         1X02_LONGPADS  SparkFun     (562.5 950)           R180
+JP2      AVR-ISP-6          AVR-ISP-6      avr-5        (1475 800)            MR270
+LED1                        LED5MM         SparkFun     (1775 150)            R180
+LED2                        LED5MM         SparkFun     (1325 150)            R0
+LED3                        LED5MM         SparkFun     (875 150)             R0
+LED4                        LED5MM         SparkFun     (425 150)             R0
+LED5                        CHIP-LED0805   adafruit     (612.5 737.5)         R270
+LED6                        CHIPLED_0805   adafruit     (1087.5 809.449)      R180
+Q2       MOSFET-NCHANNELSMD SOT23-3        SparkFun     (1287.5 287.5)        R270
+Q3       MOSFET-NCHANNELSMD SOT23-3        SparkFun     (837.5 287.5)         R270
+Q5                          QS             special      (1250 550)            R180
+R1                          0603-RES       SparkFun     (612.5 812.5)         R180
+R2                          0603-RES       SparkFun     (1612.5 137.5)        R180
+R3                          0603-RES       SparkFun     (1400 250)            R90
+R4                          0603-RES       SparkFun     (950 250)             R90
+R5                          0603-RES       SparkFun     (600 137.5)           R0
+R6                          0603-RES       SparkFun     (1212.5 387.5)        R180
+R7                          0603-RES       SparkFun     (762.5 387.5)         R180
+R10                         0603-RES       SparkFun     (1087.5 950)          R270
+R12                         0603-RES       SparkFun     (1187.5 287.5)        R270
+R13                         0603-RES       SparkFun     (737.5 287.5)         R270
+R16      1k                 0603-RES       SparkFun     (500 612.5)           R0
+U$3      ATTINY45           SO08-EIAJ      SparkFun     (1250 800)            R0
+U$4      USB-MINIB-5PIN     USB-MINIB      SparkFun     (212.5 650)           R0
+U1       MCP73831           SOT23-5        SparkFun     (475 737.5)           R180
+XTAL1                       HC-49U         dp_devices   (1250 550)            R180
