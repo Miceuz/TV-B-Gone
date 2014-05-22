@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = Wed 26 Feb 2014 07:45:13 PM CET
+Cmp-Mod V01 Created by PcbNew date = Wed 21 May 2014 10:39:08 PM CEST
 
 BeginCmp
 TimeStamp = /530E29E9;
@@ -11,7 +11,7 @@ BeginCmp
 TimeStamp = /530E29DC;
 Reference = BT2;
 ValeurCmp = BATTERY;
-IdModule  = BATT-AA-BK92;
+IdModule  = BATT-AA-BK92-bold;
 EndCmp
 
 BeginCmp
@@ -88,7 +88,7 @@ BeginCmp
 TimeStamp = /530A3029;
 Reference = IC1;
 ValeurCmp = ATTINY85-S;
-IdModule  = SO8N;
+IdModule  = SO8_200mil_wide;
 EndCmp
 
 BeginCmp

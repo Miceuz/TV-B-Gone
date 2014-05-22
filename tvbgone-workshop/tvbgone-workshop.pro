@@ -1,4 +1,4 @@
-update=Sun 18 May 2014 10:18:11 PM CEST
+update=Wed 21 May 2014 10:35:53 PM CEST
 version=1
 last_client=pcbnew
 [eeschema]
@@ -85,4 +85,5 @@ LibName14=pga_sockets
 LibName15=valves
 LibName16=Aerodyne_v2
 LibName17=pushbutton
-LibName18=dallas
+LibName18=SOIC8
+LibName19=BATT-AA-BK92
