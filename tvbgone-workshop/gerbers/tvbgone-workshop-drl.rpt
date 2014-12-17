@@ -1,7 +1,7 @@
 Drill report for /home/miceuz/Xaltura/avr/TV-B-Gone/tvbgone-workshop/tvbgone-workshop.kicad_pcb
-Created on Sat 29 Mar 2014 06:27:14 PM CET
+Created on Mon 13 Oct 2014 02:33:42 PM EEST
 Drill report for plated through holes :
-T1  0.50mm  0.020"  (7 holes)
+T1  0.50mm  0.020"  (25 holes)
 T2  0.76mm  0.030"  (2 holes)
 T3  0.81mm  0.032"  (10 holes)
 T4  0.99mm  0.039"  (4 holes)
@@ -9,7 +9,7 @@ T5  1.02mm  0.040"  (6 holes)
 T6  1.70mm  0.067"  (8 holes)
 T7  3.00mm  0.118"  (4 holes)
 
-Total plated holes count 41
+Total plated holes count 59
 
 
 Drill report for unplated through holes :
